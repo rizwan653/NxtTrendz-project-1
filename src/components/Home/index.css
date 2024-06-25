@@ -105,6 +105,12 @@
   outline: none;
 }
 
+@media screen and (max-width: 767px) {
+  .shop-now-button {
+    padding: 10px 20px;
+  }
+}
+
 .shop-now-button:hover {
   background-color: #0077ff;
 }

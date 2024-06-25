@@ -132,7 +132,24 @@
   margin-top: 3px;
   margin-bottom: 0px;
   font-family: 'Roboto';
-  font-size: 12px;
   line-height: 16px;
   color: #ff0b37;
+}
+
+.guest-button {
+  margin-top: 8px;
+  background-color: #00FF40;
+  padding: 8px 22px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+  color: #000000;
+  font-weight: 500;
+  font-family: Roboto;
+  font-size: 15px;
+}
+
+.guest-button:hover {
+  background-color: #03C03C;
 }
